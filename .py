@@ -45,7 +45,6 @@ def spela_omgang():
             print("Skriv ett giltigt heltal!")
 
 
-# === HIGHSCORE-VISNING ===
 
 def visa_highscore(highscore_lista):
     print("\n--- HIGHSCORE ---")
@@ -96,6 +95,6 @@ def huvudprogram():
             print("Ogiltigt val, försök igen.")
 
 
-# Starta programmet
+# Starta
 if __name__ == "__main__":
     huvudprogram()
